@@ -1,7 +1,7 @@
 [
  {
    "number": 1,
-   "sectox  r": "Energy",
+   "sector": "Energy",
    "phaseTitle": "Design & Planning",
    "title": "Designing assets for improved performance",
    "description": "Improving design processes (e.g. by accelerating physics-based simulation with ML proxies) can help to ensure that designs for infrastructure are optimal for performance & cost. For example, new wind turbines designs could enable them to operate at higher wind speeds and thus reduce curtailment. It can also help ensure that they are resilient to extreme environmental conditions.",
@@ -1178,7 +1178,7 @@
  {
  "number": 85,
  "sector": "transport",
- "phaseTitle": "TRANSPORT PHASETITLE",
+ "phaseTitle": "Incentives & Consumer Support",
  "title": "TRANSPORT TITLE",
  "description": "TRANSPORT DESCRIPTION",
  "challenge": "GC2",
