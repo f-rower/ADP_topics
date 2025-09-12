@@ -71,6 +71,14 @@ body {
     background-color: #d2bac3
 }
 
+.card-purple-bg {
+    background-color: #e86097
+}
+
+.card-purple-text-bg {
+    background-color: #d2bac3
+}
+
 @keyframes slideIn {
     from {
         transform: translateX(-100%);
@@ -357,6 +365,14 @@ body {
     background-color: #bdd7bb
 }
 
+#filter-content .transport-checkbox:checked {
+    background-color: #8b5b8b
+}
+
+#filter-content .transport-checkbox:not(:checked) {
+    background-color: #6f6070
+}
+
 #toggler {
     display: inline-block;
     padding: 20px 50px;
@@ -408,6 +424,10 @@ body {
 
 .sectorFiler .pink {
     background-color: #e86097
+}
+
+.sectorFiler .purple {
+    background-color: #d6c1db
 }
 
 [data-tooltip] {
