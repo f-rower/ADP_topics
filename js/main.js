@@ -134,7 +134,7 @@ class Card {
             case 'built environment':
                 return 'pink';
             case 'transport':
-                return 'purple';
+                return 'teal';
             default:
                 return 'teal'; // You can choose a default color or handle it as needed
         }
